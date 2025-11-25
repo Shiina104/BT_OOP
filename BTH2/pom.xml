@@ -10,4 +10,5 @@
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>com.mycompany.oop.bth2.BTH2</exec.mainClass>
     </properties>
+    <name>BTH</name>
 </project>
