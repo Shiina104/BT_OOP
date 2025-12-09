@@ -10,9 +10,9 @@ package com.mycompany.oop.bth3;
  */
 public class NhanVien {
     static final int LUONG = 100000;
-    private static int so = 0;
+    static int so = 0;
 
-    private String maNV;
+    String maNV;
     private String CMND;
     private String hoTen;
     private String queQuan;

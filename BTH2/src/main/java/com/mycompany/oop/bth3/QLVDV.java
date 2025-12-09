@@ -31,7 +31,7 @@ public class QLVDV {
                         this.ds.add(v);
                         break;
                     case 3:
-                        VanDongVien v = new VDVBoi(info[0], path, line, line);
+//                        VanDongVien v = new VDVBoi(info[0], path, line, line);
                     default:
                         throw new AssertionError();
                 }
